@@ -1,20 +1,35 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React from 'react';
+import { ScrollView, StyleSheet, View } from 'react-native';
+import Titulo from './components/Titulo';
+import Saudacao from './components/Saudacao';
+import CartaoUsuario from './components/CartaoUsuario';
+import contatos from './data/contatos';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <ScrollView style={styles.container}>
+      <Titulo />
+      <Saudacao nome="Nicole" />
+
+      <View style={styles.lista}>
+        {contatos.map((item) => (
+          <CartaoUsuario
+            key={item.id}
+            nome={item.nome}
+            descricao={item.descricao}
+            foto={item.foto}
+          />
+        ))}
+      </View>
+    </ScrollView>
   );
 }
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    backgroundColor: '#F3F4F6',
+  },
+  lista: {
+    padding: 12,
   },
 });
