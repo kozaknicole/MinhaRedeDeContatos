@@ -1,5 +1,6 @@
 import React from 'react';
 import { ScrollView, StyleSheet, View } from 'react-native';
+import FotoPerfil from './componentes/Fotoperfil';
 import Titulo from './componentes/Titulo';
 import Saudacao from './componentes/Saudacao';
 import CartaoUsuario from './componentes/CartaoUsuario';
@@ -8,18 +9,308 @@ export default function App() {
   return (
     <ScrollView style={styles.container}>
       <Titulo texto="Minha Rede de Contatos" />
-      <Saudacao nome="Nicole"/>
+      <Saudacao nome="Nicole" />
+      <FotoPerfil />
 
-      <View style={styles.lista}>
-        {contatos.map((item) => (
-          <CartaoUsuario
-            key={item.id}
-            nome={item.nome}
-            descricao={item.descricao}
-            foto={item.foto}
-          />
-        ))}
-      </View>
+      <CartaoUsuario
+        nome='Nicole '
+        descricao='Departamento de TI'
+        img='perfil03'
+      />
+
+      <CartaoUsuario
+        nome='Maria'
+        descricao='Analista de Sistemas'
+        img='perfil01'
+      />
+
+      <CartaoUsuario
+        nome='Ana'
+        descricao='Programação Mobile'
+        img='perfil02'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
+
+      <CartaoUsuario
+        nome='Laura'
+        descricao='Professora'
+        img='perfil04'
+      />
     </ScrollView>
   );
 }
