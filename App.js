@@ -1,15 +1,14 @@
 import React from 'react';
 import { ScrollView, StyleSheet, View } from 'react-native';
-import Titulo from './components/Titulo';
-import Saudacao from './components/Saudacao';
-import CartaoUsuario from './components/CartaoUsuario';
-import contatos from './data/contatos';
+import Titulo from './componentes/Titulo';
+import Saudacao from './componentes/Saudacao';
+import CartaoUsuario from './componentes/CartaoUsuario';
 
 export default function App() {
   return (
     <ScrollView style={styles.container}>
-      <Titulo />
-      <Saudacao nome="Nicole" />
+      <Titulo texto="Minha Rede de Contatos" />
+      <Saudacao nome="Nicole"/>
 
       <View style={styles.lista}>
         {contatos.map((item) => (
