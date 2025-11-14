@@ -37,277 +37,277 @@ export default function App() {
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Lara'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Izadora'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Bruno'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Emanuelly'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Natalia'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Mariele'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Cauan'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Pedro'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='João'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Mariana'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Livia'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Diego'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Camila'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Elisa'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Felipe'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Gabriela'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Henrique'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Isabela'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Karina'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Nicolas'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Olivia'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Sabrina'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Thiago'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Vitoria'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Yasmin'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Bianca'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Eduardo'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Caio'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Fernanda'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Guilherme'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Kauã'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Igor'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Juliana'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Daniela'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Helena'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Rodrigo'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Samara'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Vinicius'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Zoe'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Ursula'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Yago'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Xênia'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Priscilla'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Bianca'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Rafaele'
         descricao='Professora'
         img='perfil04'
       />
 
       <CartaoUsuario
-        nome='Laura'
+        nome='Zeca'
         descricao='Professora'
         img='perfil04'
       />
