@@ -3,4 +3,13 @@ export default {
     perfil02: require('./pessoa2.png'),
     perfil01: require('./pessoa3.png'),
     perfil04: require('./pessoa4.png'),
+    perfil05: require('./pessoa5.png'),
+    perfil06: require('./pessoa6.png'),
+    perfil07: require('./homem.png'),
+    perfil08: require('./8.png'),
+    perfil09: require('./9.png'),
+    perfil10: require('./10.png'),
+    perfil11: require('./h2.png'),
+    perfil12: require('./h3.png'),
+    perfil13: require('./h4.png'),
 };

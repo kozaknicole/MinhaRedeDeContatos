@@ -39,55 +39,55 @@ export default function App() {
       <CartaoUsuario
         nome='Lara'
         descricao='Professora'
-        img='perfil04'
+        img='perfil05'
       />
 
       <CartaoUsuario
         nome='Izadora'
         descricao='Professora'
-        img='perfil04'
+        img='perfil06'
       />
 
       <CartaoUsuario
         nome='Bruno'
         descricao='Professora'
-        img='perfil04'
+        img='perfil07'
       />
 
       <CartaoUsuario
         nome='Emanuelly'
         descricao='Professora'
-        img='perfil04'
+        img='perfil08'
       />
 
       <CartaoUsuario
         nome='Natalia'
         descricao='Professora'
-        img='perfil04'
+        img='perfil09'
       />
 
       <CartaoUsuario
         nome='Mariele'
         descricao='Professora'
-        img='perfil04'
+        img='perfil10'
       />
 
       <CartaoUsuario
         nome='Cauan'
         descricao='Professora'
-        img='perfil04'
+        img='perfil11'
       />
 
       <CartaoUsuario
         nome='Pedro'
         descricao='Professora'
-        img='perfil04'
+        img='perfil12'
       />
 
       <CartaoUsuario
         nome='João'
         descricao='Professora'
-        img='perfil04'
+        img='perfil13'
       />
 
       <CartaoUsuario
