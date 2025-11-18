@@ -38,278 +38,278 @@ export default function App() {
 
       <CartaoUsuario
         nome='Lara'
-        descricao='Professora'
+        descricao='Amiga'
         img='perfil05'
       />
 
       <CartaoUsuario
         nome='Izadora'
-        descricao='Professora'
+        descricao='Dançarina'
         img='perfil06'
       />
 
       <CartaoUsuario
         nome='Bruno'
-        descricao='Professora'
+        descricao='Colega'
         img='perfil07'
       />
 
       <CartaoUsuario
         nome='Emanuelly'
-        descricao='Professora'
+        descricao='Amiga'
         img='perfil08'
       />
 
       <CartaoUsuario
         nome='Natalia'
-        descricao='Professora'
+        descricao='Modelo'
         img='perfil09'
       />
 
       <CartaoUsuario
         nome='Mariele'
-        descricao='Professora'
+        descricao='Amiga'
         img='perfil10'
       />
 
       <CartaoUsuario
         nome='Cauan'
-        descricao='Professora'
+        descricao='Engenheiro'
         img='perfil11'
       />
 
       <CartaoUsuario
         nome='Pedro'
-        descricao='Professora'
+        descricao='Encanador'
         img='perfil12'
       />
 
       <CartaoUsuario
         nome='João'
-        descricao='Professora'
+        descricao='Vizinho'
         img='perfil13'
       />
 
       <CartaoUsuario
         nome='Mariana'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Pedagoga'
+        img='perfil14'
       />
 
       <CartaoUsuario
         nome='Livia'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Dentista'
+        img='perfil15'
       />
 
       <CartaoUsuario
         nome='Diego'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Fisioterapeuta'
+        img='perfil16'
       />
 
       <CartaoUsuario
         nome='Camila'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Prima'
+        img='perfil17'
       />
 
       <CartaoUsuario
         nome='Elisa'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Madrasta'
+        img='perfil18'
       />
 
       <CartaoUsuario
         nome='Felipe'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Pai'
+        img='perfil19'
       />
 
       <CartaoUsuario
         nome='Gabriela'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Mãe'
+        img='perfil20'
       />
 
       <CartaoUsuario
         nome='Henrique'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Irmão'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Isabela'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Avó'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Karina'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Amiga'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Nicolas'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Primo'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Olivia'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Madrinha'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Sabrina'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Prima'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Thiago'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Pedreiro'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Vitoria'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Faxineira'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Yasmin'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Enfermeira'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Bianca'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Promotora'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Eduardo'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Garçom'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Caio'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Motorista'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Fernanda'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Diarista'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Guilherme'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Pediatra'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Kauã'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Policial'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Igor'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Bombeiro'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Juliana'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Babá'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Daniela'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Médica'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Helena'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Assistente Social'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Rodrigo'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Personal Trainer'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Samara'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Advogada'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Vinicius'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Barbeiro'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Zoe'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Obstreta'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Ursula'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Corretora de Imóveis'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Yago'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Designer Gráfico'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Xênia'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Arquiteta'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Priscilla'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Bibliotecária'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Bianca'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Fotógrafa'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Rafaele'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Jornalista'
+        img='perfil21'
       />
 
       <CartaoUsuario
         nome='Zeca'
-        descricao='Professora'
-        img='perfil04'
+        descricao='Eletrecista'
+        img='perfil21'
       />
     </ScrollView>
   );
